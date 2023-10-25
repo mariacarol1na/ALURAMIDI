@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: rgb(231, 37, 37);
+  color: rgb(245, 245, 245);
   margin-bottom: 20px;
   font-size: 2rem;
 }
@@ -27,7 +27,7 @@ h2 {
 
 .teclado {
   background: linear-gradient(to bottom, #f50707 0%,#130808 100%);
-  box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
+  box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #fdfdfd;
   border-radius: 30px;
   display: grid;
   gap: 10px;
